@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# DomJaga
+A Laravel 11 E-Commerce Website
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -69,3 +70,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # DomJaga
 A Laravel 11 E-Commerce Website
 >>>>>>> d99f09f2945b2d38f05d73f35a92ca11d47d196d
+=======
+
+>>>>>>> c6e833a0bc3bd885fa94a3fcf3d8f6af93389d5a
