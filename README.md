@@ -23,7 +23,10 @@ Welcome to **DomJaga**, an e-commerce platform designed to bring trendy fashion,
 
 ## 🎥 Demo  
 > Add videos showcasing your features here:  
-- **Homepage Tour**: [Embed video or link here]  
+- **Homepage Tour**:
+
+Untitled design.gif
+
 - **Product Browsing & Wishlist**: [Embed video or link here]  
 - **Checkout & Payment Process**: [Embed video or link here]  
 - **User Account Features**: [Embed video or link here]  
