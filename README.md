@@ -69,12 +69,35 @@ Welcome to **DomJaga**, an e-commerce platform designed to bring trendy fashion,
 ## 📦 Installation & Setup
 
 ### Clone the repository:
-```bash
-git clone https://github.com/yourusername/domjaga.git
-cd domjaga
+    ```bash
+    git clone https://github.com/yourusername/domjaga.git
+    cd domjaga
 
-### Clone the repository:
-```bash
-git clone https://github.com/yourusername/domjaga.git
-cd domjaga
+### Install dependencies:
+    ```bash
+    composer install
+    npm install
+
+### Set up the environment variables:
+    Copy .env.example to .env and update configurations
+
+### Run the application:
+    ```bash
+    php artisan serve
+    npm run dev
+
+---
+
+## 📧 Contact Us
+
+If you have any questions, suggestions, or issues, feel free to reach out:
+
+- **Email**: mdkaisarulislam.kawshik@gmail.com
+- **Phone**: +8801871294953
+
+---
+
+
+
+
 
