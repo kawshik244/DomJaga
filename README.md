@@ -41,35 +41,52 @@ Welcome to **DomJaga**, an e-commerce platform designed to bring trendy fashion,
 
 - **Homepage Tour**:
 
+
   ![Home](public/products/home1.gif)
 
+  
+
 - **Sign Up and Verify Email**:
+  
 
   ![Verify](public/products/email.gif)
+  
 
 - **Product Browsing & Add to Cart**:
+  
 
   ![AddCart](public/products/Addtocartproduct.gif)
   
+  
 - **Checkout & Payment Process**:
+  
 
   ![Payment](public/products/payment.gif)
+  
 
 - **Admin Panel Overview**:
+  
 
   ![AdminHome](public/products/adminhome.gif)
+  
  
 - **Adding Categories**:
 
+
   ![AddCategory](public/products/adminCategory.gif)
+  
 
 - **Adding Products**:
 
+
   ![AddProduct](public/products/adminproduct.gif)
+  
 
 - **Managing Orders**:
 
+
   ![ManageOrder](public/products/adminorder.gif)
+  
  
 
 ---
